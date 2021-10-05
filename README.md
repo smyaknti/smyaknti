@@ -15,5 +15,5 @@
 - 🌱 I’m currently learning Power Electronics and Machine Drives at NIT Dugrapur, West Bengal, India.
 - 👯 I’m looking to collaborate on interesting research projects in the field of data analysis, simulation and programming.
 - 💬 Ask me about Electrical Engineering, Math and Python.
-- 📫 How to reach me: https://soumyakanti.in/contact.html
+- 📫 How to reach me: [Try these methods!](https://soumyakanti.in/contact.html/)
 - ⚡ Fun fact: I actually like EE and CS simultaneously!
