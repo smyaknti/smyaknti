@@ -11,8 +11,8 @@
 <h3 align="left">👨🏻‍💻 About Me:</h3>
 
 - 😄 Pronouns: He/Him!
-- 🔭 I’m currently working on learning Java of all things!
-- 🌱 I’m currently learning Power Electronics and Machine Drives at NIT Dugrapur, West Bengal, India.
+- 🔭 I’m currently working as a System Performance Engineer at Qualcomm.
+- 🌱 I graduated with a Masters in Power Electronics from NIT Dugrapur, West Bengal, India.
 - 👯 I’m looking to collaborate on interesting research projects in the field of data analysis, simulation and programming.
 - 💬 Ask me about Electrical Engineering, Math and Python.
 - 📫 How to reach me: [Try these methods!](https://soumyakanti.in/contact.html/)
